@@ -1,1 +1,1 @@
-# Start Page for start.rizo.pro
+# RIZO Start Page
